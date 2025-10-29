@@ -1,0 +1,10 @@
+title: zeme.tech
+description:
+theme: minima
+author: zeme
+email: free@zeme.tech
+baseurl: "" # leave empty for user site (username.github.io)
+url: "https://zeme-wana.github.io"
+
+# Optional features
+show_excerpts: true
